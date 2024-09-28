@@ -42,7 +42,8 @@
   border: none;
   font-size: 1rem;
   color: var(--white);
-  background-color: #474fa0;
+  background-color:  #fe5c3c;
+
   white-space: nowrap;
   border-radius: 4px;
   transition: 0.3s;
@@ -50,7 +51,7 @@
 }
 
 .btn:hover {
-  background-color: #3c4286;
+  background-color:  #fc8023;
 }
 
 img {
